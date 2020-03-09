@@ -1,8 +1,7 @@
-# Modelagem
 
-## 1) introdução (anterior)
+# 1) introdução (anterior)
 
-## 2) identificação do problema
+# 2) identificação do problema
 
 Descrição Geral de Aplicação (DGA)
 O DGA é um documento dinâmico por definição. Antes de iniciar o seu projeto real, busque na comunidade Apex o template da última versão válida do documento.
@@ -26,7 +25,11 @@ digitar o nome da tabela pai (ou mestre) no campo Faz Referência à Tabela ou c
 escolha a(s) coluna(s) da lista Selecionar Coluna(s) de Referência e em seguida no símbolo ;
 para finalizar, clique em Próximo .
 
-## 3) Criando tabelas
+## 2.3 Nomenclatura e constraints
+
+
+
+# 3) Criando tabelas
 
 Criar constraint
 Veremos agora como criar a regra de restrição abaixo mostrada:
@@ -43,7 +46,7 @@ se todas as regras de restrições já tiverem sido implementadas, clique em Fin
 
 
 
-## 4) Verificando os objetos criados
+# 4) Verificando os objetos criados
 
 Relatórios de Exceções (criando index)
 
