@@ -1,0 +1,13 @@
+
+.app {
+  min-height: 100vh;
+  background: rgb(105, 178, 202);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.red {
+  color: red;
+  font-size: 50px;
+}
