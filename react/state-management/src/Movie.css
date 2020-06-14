@@ -1,0 +1,8 @@
+.movie {
+    background-color: aqua;
+    width: 300px;
+    border-radius: 15px;
+    margin-left: 100px;
+    /* align-items: center; */
+    /* align-content: center; */
+}
